@@ -22,7 +22,7 @@ Hi 👋, I'm Elias, apprentice web and webmobile developer</br></br>
 🌱 I am currently an apprentice at La Plateforme_ school in Marseille.</br></br>
 
 <li>📞 Contact</li>
-<a href="https://elias-cardon.students-laplateforme.io/">Portfolio</a>
+<a href="https://elias-cardon.students-laplateforme.io/">Portfolio</a></br></br>
 
 <li>⚡ Fun fact :</li>
 Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-les deux fois plus cher.
