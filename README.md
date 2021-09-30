@@ -21,5 +21,5 @@ Hi 👋, I'm Elias, apprentice web and webmobile developer
 <li>🌱 Je suis actuellement en apprentissage à l'école La Plateforme_ à Marseille.</li>
 🌱 I am currently an apprentice at La Plateforme_ school in Marseille.
 
-<li>Contact</li>
+<li>📞 Contact</li>
 <a href="https://elias-cardon.students-laplateforme.io/">Portfolio</a>
