@@ -25,5 +25,5 @@ Hi 👋, I'm Elias, apprentice web and webmobile developer</br></br>
 <a href="https://elias-cardon.students-laplateforme.io/">Portfolio</a></br></br>
 
 <li>⚡ Fun fact :</li>
-Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-les deux fois plus cher.
+Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-les deux fois plus cher.</br></br>
 When life gives you lemons, say they are yellow orange
