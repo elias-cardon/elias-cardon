@@ -29,5 +29,5 @@ Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-le
 When life gives you lemons, say they are yellow oranges and sell them for twice as much.
 </br>
 </br>
-Que la Force soit avec vous.
+Que la Force soit avec vous.</br>
 May the Force be with you.
