@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 <li>Salut 👋, Je m'appelle Elias, apprenti développeur web et webmobile</li>
 Hi 👋, I'm Elias, apprentice web and webmobile developer</br></br>
 
-<li>🌱 Je suis actuellement en apprentissage à l'école La Plateforme_ à Marseille.</li>
-🌱 I am currently an apprentice at La Plateforme_ school in Marseille.</br></br>
+<li>🌱 Je suis actuellement à la recherche d'un travail.</li>
+🌱 I am currently looking for a job.</br></br>
 
 <li>📞 Contact</li>
 <a href="https://elias-cardon.students-laplateforme.io/">Portfolio</a></br></br>
 
-<li>⚡ Fun fact :</li>
+<li>⚡ Conseil / Advice :</li>
 Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-les deux fois plus cher.</br>
 When life gives you lemons, say they are yellow oranges and sell them for twice as much.
+
+Que la Force soit avec vous.
+May the Force be with you.
