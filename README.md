@@ -27,6 +27,7 @@ Hi 👋, I'm Elias, apprentice web and webmobile developer</br></br>
 <li>⚡ Conseil / Advice :</li>
 Quand la vie te donne des citrons, dis que ce sont des oranges jaunes et vend-les deux fois plus cher.</br>
 When life gives you lemons, say they are yellow oranges and sell them for twice as much.
-
+</br>
+</br>
 Que la Force soit avec vous.
 May the Force be with you.
