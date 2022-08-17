@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<li>Salut 👋, Je m'appelle Elias, apprenti développeur web et webmobile</li>
-Hi 👋, I'm Elias, apprentice web and webmobile developer</br></br>
+<li>Salut 👋, Je m'appelle Elias, développeur web et webmobile junior</li>
+Hi 👋, I'm Elias, junior web and webmobile developer</br></br>
 
 <li>🌱 Je suis actuellement à la recherche d'un travail.</li>
 🌱 I am currently looking for a job.</br></br>
