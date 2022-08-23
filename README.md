@@ -11,7 +11,7 @@
 
 - 📄 Voici mon CV [https://elias-cardon.students-laplateforme.io/CV/index.html](https://elias-cardon.students-laplateforme.io/CV/index.html)
 
-- ⚡ Fun fact **je suis babysitter d'un Tamagotchi**
+- ⚡ Fun fact : **Je suis babysitter d'un Tamagotchi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
