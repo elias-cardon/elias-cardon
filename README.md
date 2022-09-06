@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Elias</h1>
 <h3 align="center">Je suis un developpeur web et webmobile et concepteur d'application junior</h3>
 
-- 🔭 Je travaille actuellement sur **un blog avec React Native**
+- 🔭 Je travaille actuellement sur **un blog avec React Native et NodeJs**
 
 - 🌱 J'apprends actuellement **React Native, NodeJs, Sass**
 
