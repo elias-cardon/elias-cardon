@@ -1,13 +1,13 @@
 <h1 align="center">Salut 👋, Je suis Elias</h1>
 <h3 align="center">Je suis un developpeur web et webmobile et concepteur d'application junior</h3>
 
-- 🔭 Je travaille actuellement sur **un blog avec React Native et NodeJs**
+- 🔭 Je travaille actuellement sur **quelques projets en ReactJS et sur d'anciens projets de ma formation à la Plateforme.**
 
-- 🌱 J'apprends actuellement **React Native, NodeJs, Sass**
+- 🌱 J'apprends actuellement **ReactJS, Tailwind CSS et C#**
 
-- 👨‍💻 Certains de mes projets sont sur mon portfolio : [https://elias-cardon.students-laplateforme.io/](https://elias-cardon.students-laplateforme.io/)
+- 👨‍💻 Certains de mes projets sont sur mon portfolio : [https://elias-cardon.com/](https://elias-cardon.com/)
 
-- 📫 Comment me contacter : **elias.cardon.17@gmail.com**
+- 📫 Comment me contacter : **freelance@elias-cardon.com**
 
 - 📄 Voici mon CV [https://elias-cardon.students-laplateforme.io/CV/index.html](https://elias-cardon.students-laplateforme.io/CV/index.html)
 
