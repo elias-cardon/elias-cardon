@@ -3,7 +3,7 @@
 
 - 🔭 Je travaille actuellement sur **quelques projets en ReactJS et sur l'amélioration d'anciens projets de ma formation à la Plateforme.**
 
-- 🌱 J'apprends actuellement **ReactJS, Tailwind CSS et C#**
+- 🌱 Je suis actuellement dans une **formation à la cybersécurité** à **la Plateforme**
 
 - 👨‍💻 Certains de mes projets sont sur mon portfolio : [https://elias-cardon.com/](https://elias-cardon.com/)
 
