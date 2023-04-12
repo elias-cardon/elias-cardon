@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Elias</h1>
 <h3 align="center">Je suis un developpeur web et webmobile et concepteur d'application junior</h3>
 
-- 🔭 Je travaille actuellement sur **quelques projets en ReactJS et sur l'amélioration d'anciens projets de ma formation à la Plateforme.**
+- 🔭 Je travaille actuellement sur **sur l'amélioration d'anciens projets de ma formation à la Plateforme.**
 
 - 🌱 Je suis actuellement dans une **formation à la cybersécurité** à **la Plateforme**
 
