@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, Je suis Elias</h1>
 <h3 align="center">Je suis un developpeur web et webmobile junior</h3>
 
-# 💫 About Me:
+# 💫 A propos de moi:
 🔭 Je travaille actuellement sur sur l'amélioration d'anciens projets de ma formation à la Plateforme.<br><br>🌱 Je suis actuellement dans une formation à la cybersécurité à la Plateforme<br><br>👨‍💻 Certains de mes projets sont sur mon portfolio : https://elias-cardon.com/<br><br>📫 Comment me contacter : freelance@elias-cardon.com<br><br>📄 Voici mon CV https://elias-cardon.students-laplateforme.io/CV/index.html<br><br>⚡ Fun fact : Je suis babysitter d'un Tamagotchi
 
 
-## 🌐 Socials:
+## 🌐 Réseaux sociaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jobbalemeccertifie) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jobba_la_photo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elias-cardon-693a31a2/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Jobbadab) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jobba@mastodon.social) 
 
 # 💻 Tech Stack:
@@ -27,7 +27,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=elias-cardon&icon=0&color=6)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Vous pouvez m'aider en faisant un don
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/Jobb) 
 
   
