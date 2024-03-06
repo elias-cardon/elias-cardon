@@ -2,7 +2,7 @@
 <h3 align="center">Je suis un developpeur web et webmobile junior</h3>
 
 # 💫 A propos de moi:
-🔭 Je travaille actuellement sur sur l'amélioration d'anciens projets de ma formation à la Plateforme.<br><br>🌱 Je suis actuellement dans une formation à la cybersécurité à la Plateforme<br><br>👨‍💻 Certains de mes projets sont sur mon portfolio : https://elias-cardon.com/<br><br>📫 Comment me contacter : freelance@elias-cardon.com<br><br>📄 Voici mon CV https://elias-cardon.students-laplateforme.io/CV/index.html<br><br>⚡ Fun fact : Je suis babysitter d'un Tamagotchi
+🔭 Je travaille actuellement sur l'amélioration d'anciens projets de ma formation à la Plateforme.<br><br>🌱 Je suis actuellement dans une formation à la cybersécurité à la Plateforme<br><br>👨‍💻 Certains de mes projets sont sur mon portfolio : https://elias-cardon.com/<br><br>📫 Comment me contacter : freelance@elias-cardon.com<br><br>📄 Voici mon CV https://elias-cardon.students-laplateforme.io/CV/index.html<br><br>⚡ Fun fact : Je suis babysitter d'un Tamagotchi
 
 
 ## 🌐 Réseaux sociaux:
